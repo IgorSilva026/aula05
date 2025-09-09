@@ -10,6 +10,7 @@ export default function App() {
       <Text style={mascara.sz}>Suzano</Text>
       <View style={mascara.box2}></View>
       
+      <Text> Usando o GitHub na Aula</Text>
     </SafeAreaView>
   );
 }
